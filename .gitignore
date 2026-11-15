@@ -1,0 +1,23 @@
+# Build outputs / IDE caches, not study notes
+Debug/
+Release/
+build/
+cmake-build-*/
+*.o
+*.obj
+*.d
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+*.lst
+*.log
+*.bak
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+.vscode/.browse.VC.db*
+.vs/
+# Keep source code, READMEs and CubeMX .ioc when you later add your own project.
